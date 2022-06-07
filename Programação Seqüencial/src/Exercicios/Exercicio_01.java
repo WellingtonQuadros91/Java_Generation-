@@ -6,7 +6,7 @@ dias e mostre-a expressa apenas em dias.*/
 
 import java.util.Scanner;
 
-public class Exercico_01 {
+public class Exercicio_01 {
 
 	public static void main(String[] args) {
 		
